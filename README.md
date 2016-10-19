@@ -1,5 +1,7 @@
 # Road Trip
-	
+
+## 1
+
 Create a class that calculates miles per gallon.
 
 ### Properties
@@ -18,6 +20,8 @@ Create a class that calculates miles per gallon.
 ```
 
 <hr>
+## 2
+
 Add two new methods.
 
 ```
@@ -28,6 +32,8 @@ economyCar?()
 	true if the mpg is higher than 30.0
 ```
 <hr>
+## 3
+
 Change the constructor for the Car class so that it has only one parameter, the first reading of the odometer. 
 
 The miles per gallon cannot yet be calculated. 
@@ -41,6 +47,8 @@ fillUp(miles, gallons)
 Now the mpg can be calculated.
 
 <hr>
+## 4
+
 You have saved the info for your latest road trip fill-ups into a file named roadtrip.csv, like so:
 
 ```
