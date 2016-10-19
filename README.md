@@ -53,7 +53,7 @@ Now the mpg can be calculated.
 You have saved the info for your latest road trip fill-ups into a file named roadtrip.csv, like so:
 
 ```
-Miles,Gallons,PPG
+Miles,Gallons,$PG
 350,15,2.15
 500,14,2.67
 637,12,3.11
