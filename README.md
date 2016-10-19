@@ -1,5 +1,6 @@
 # Road Trip
 
+<hr>
 ## 1
 
 Create a class that calculates miles per gallon.
