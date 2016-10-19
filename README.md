@@ -1,6 +1,6 @@
 # Road Trip
 	
-1. Create a class that calculates miles per gallon.
+Create a class that calculates miles per gallon.
 
 ### Properties
 
@@ -17,7 +17,8 @@
 		# Returns the miles per gallon for the car.
 ```
 
-2. Add two new methods.
+<hr>
+Add two new methods.
 
 ```
 gasHog?()
@@ -26,7 +27,8 @@ gasHog?()
 economyCar?()
 	true if the mpg is higher than 30.0
 ```
-3. Change the constructor for the Car class so that it has only one parameter, the first reading of the odometer. 
+<hr>
+Change the constructor for the Car class so that it has only one parameter, the first reading of the odometer. 
 
 The miles per gallon cannot yet be calculated. 
 
@@ -37,7 +39,9 @@ fillUp(miles, gallons)
 	miles is the current odometer reading and gallons is the number of gallons that filled the tank
 ```
 Now the mpg can be calculated.
-4. You have saved the info for your latest road trip fill-ups into a file named roadtrip.csv, like so:
+
+<hr>
+You have saved the info for your latest road trip fill-ups into a file named roadtrip.csv, like so:
 
 ```
 Miles,Gallons,PPG
@@ -53,7 +57,7 @@ Miles,Gallons,PPG
 Read in the file and write a program to determine the answer to the following questions. 
 
 #### Questions
-	* What was the car's overall mpg?
-	* Is it a gas hog? Economy?
-	* What was the total cost of gas for the trip?
+* What was the car's overall mpg?
+* Is it a gas hog? Economy?
+* What was the total cost of gas for the trip?
 
